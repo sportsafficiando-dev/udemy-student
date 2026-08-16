@@ -1,0 +1,1 @@
+print('This is my first basic text file for the project')
